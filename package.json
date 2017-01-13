@@ -1,0 +1,23 @@
+{
+  "name": "rustserver_rcon_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "srcds-rcon": "randunel/node-srcds-rcon"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WenWu92/rustserver_rcon_tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenWu92/rustserver_rcon_tool/issues"
+  },
+  "homepage": "https://github.com/WenWu92/rustserver_rcon_tool#readme"
+}
