@@ -5,7 +5,7 @@
 let Rcon = require('srcds-rcon');
 let rcon = Rcon({
 	address: '121.201.14.230:28016',
-	password: 'www920423',
+	password: '***',
 	port: '28016'
 });
 rcon.connect().then(() => {
